@@ -3,3 +3,5 @@
 Check out some of my pinned repositories for more info about what I'm currently working on!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhanChaudhary&layout=compact&hide=html)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ArhanChaudhary)
