@@ -4,4 +4,4 @@ I am a student and a programming hobbyist. You'll find me pursing a variety of d
 
 ![Arhan's GitHub Stats](https://github-readme-stats-arhan.vercel.app/api?username=ArhanChaudhary&theme=dracula&show_icons=true&include_all_commits=true&custom_title=Arhan%27s%20GitHub%20Stats&disable_animations=true)
 
-![Arhan's Top Languages](https://github-readme-stats-arhan.vercel.app/api/top-langs?username=ArhanChaudhary&layout=compact&theme=dracula&hide=html,css,mdx)
+![Arhan's Top Languages](https://github-readme-stats-arhan.vercel.app/api/top-langs?username=ArhanChaudhary&layout=compact&theme=dracula&disable_animations=true&hide=html,css,mdx)
