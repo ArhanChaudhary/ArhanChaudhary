@@ -6,4 +6,4 @@ I am a student and a programming hobbyist. You'll find me pursing a variety of d
 
 ![Arhan's WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ArhanChaudhary&layout=compact&langs_count=6&disable_animations=true&theme=dracula&hide=other,markdown,toml&custom_title=Arhan%27s%20WakaTime%20Stats)
 
-![Arhan's Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ArhanChaudhary&layout=compact&theme=dracula&disable_animations=true&hide=html,mdx&custom_title=Arhan%27s%20Most%20Used%20Languages&role=OWNER,ORGANIZATION_MEMBER)
+![Arhan's Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ArhanChaudhary&layout=compact&theme=dracula&disable_animations=true&hide=html&custom_title=Arhan%27s%20Most%20Used%20Languages&role=OWNER,ORGANIZATION_MEMBER)
